@@ -1,4 +1,3 @@
-layout_spectrum: 0.06367414374835789
 typography_spectrum: 0.8445181788410991
 color:
   brandStrength: 0.5858082023914903
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.06367414374835789
 name: irobotpf
+description: Effin Robots
