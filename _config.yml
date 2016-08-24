@@ -1,0 +1,14 @@
+layout_spectrum: 0.06367414374835789
+typography_spectrum: 0.8445181788410991
+color:
+  brandStrength: 0.5858082023914903
+  lightness: 0.2094253257382661
+  saturation: 0.8527056106831878
+  rhythmicContrast: 0.08806623565033078
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: irobotpf
